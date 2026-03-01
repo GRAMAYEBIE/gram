@@ -55,7 +55,7 @@ https://github.com/GRAMAYEBIE
   <img src="https://img.shields.io/badge/Python-Advance-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/R-Intermediate-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
   <img src="https://img.shields.io/badge/Eviews,Stata-Intermediate-276DC3?style=flat&logo=r&logoColor=white" alt="Eviews,Stata Skill Badge">
-  <img src="https://img.shields.io/badge/Java%Script-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="Skill Badge">
+  <img src="https://img.shields.io/badge/Java%Script-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="">
 </p>
 
 #### Business Intelligence & Analytics
