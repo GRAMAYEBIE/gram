@@ -9,7 +9,7 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="www.linkedin.com/in/ayebie-meschac-257b2b254"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://code-canvas-essence.lovable.app/"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
+  <a href=><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
   <a href="mailto:ayebiemeschac@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -21,7 +21,7 @@ I focus on combining performance,automation,and interpretability to build system
 When I'm not working with data, I enjoy Reading, learning new technologies,mentoring others, sport such as Karate and exploring innovative ideas that push my technical limits. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://GRAMAYEBIE.github.io/)
+### https://GRAMAYEBIE.github.io/
       
 ## 🔭 What I'm Currently Working On 
 
