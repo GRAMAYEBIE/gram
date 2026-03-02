@@ -28,7 +28,7 @@ https://github.com/GRAMAYEBIE
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** EDUCPRO. An intelligente platform tho predict the dropping out of scholl follow by conselor AI and the last part is the recommandation for those are going to university based on their performance   
+- **Project A:** EDUCPRO. An intelligente platform that predict the dropping out of scholl follow by conselor AI and the last part is the recommandation for those are going to university based on their performance   
 - **Project B:** ILIVON
 
 ## 🌱 Currently Learning 
